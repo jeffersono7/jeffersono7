@@ -3,7 +3,7 @@
 ## Olá pessoal 👋
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando no **Grupo FCamara**
+ :rocket:  &nbsp; Estou trabalhando no **Picpay**
  <br/> :purple_heart: &nbsp; Buscando aprender mais sobre Elixir
  <br/> :grin: &nbsp; Posso te ajudar com Java, "Universo" Spring, Angular, React, Micro Frontend, Padrões e Arquiteturas em projetos WEB
  <br/> :computer: &nbsp; Minha stack: Elixir, Java, Spring, Typescript, JavaScript, Angular, React, SingleSPA
