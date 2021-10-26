@@ -11,3 +11,5 @@ Sou um FullStack Developer :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JeffersonFarias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-oliveira-farias-15790b127/)](https://www.linkedin.com/in/jefferson-oliveira-farias-15790b127/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-jefferson.farias7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefferson.farias7@gmail.com)](mailto:jefferson.farias7@gmail.com)
+
+![Jefferson Farias's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersono7&show_icons=true&theme=tokyonight&custom_title=Jefferson%20Farias&count_private=true)
