@@ -3,7 +3,7 @@
 ## Olá pessoal 👋
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Cub**
+ :rocket:  &nbsp; Estou trabalhando na **CUB**
  <br/> :purple_heart: &nbsp; Buscando aprender mais sobre Elixir e Golang
  <br/> :grin: &nbsp; Posso te ajudar com Java, "Universo" Spring, Microsserviços, Angular, React, Micro Frontend, Padrões e Arquiteturas em projetos WEB
  <br/> :computer: &nbsp; Minha stack: Elixir, Go, Java, Spring, Typescript, JavaScript, Angular, React, SingleSPA
